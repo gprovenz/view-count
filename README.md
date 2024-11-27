@@ -1,4 +1,4 @@
-# Log View count
+# View count
 
 A bash script to parse and aggregate view statistics from log files. It extracts view IDs from lines containing `/viewdefinition/view/{ID}`, counts their occurrences, and outputs the results in a CSV file sorted by count in descending order.
 
