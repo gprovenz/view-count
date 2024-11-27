@@ -25,7 +25,7 @@ A bash script to parse and aggregate view statistics from log files. It extracts
 ### Launch it 
 ```sh count.sh "*.log" output.csv```
 
-Output:
+### Output
 The script generates a CSV file (output.csv) containing view ID statistics sorted by count in descending order, for example:
 ```
 View ID,Count
